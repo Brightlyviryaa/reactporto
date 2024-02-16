@@ -17,7 +17,7 @@ const Jumbotron = () => {
                 <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
                     <h1 data-aos="zoom-in" className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">{title}</h1>
                     <p data-aos="zoom-in-up" className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">{description}</p>
-                    <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
+                    <div className="z-10 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
                         <a data-aos="zoom-in-left" href="#" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900" onClick={scrollToGallery}>
                             See CV
                             <svg className="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
