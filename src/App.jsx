@@ -9,6 +9,8 @@ import Footer from './components/footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
+import { Analytics } from '@vercel/analytics/react';
+
 import './App.css';
 
 AOS.init({
@@ -44,6 +46,7 @@ const Portfolio = () => {
       <Timeline />
       <Galery />
       <Footer />
+      <Analytics />
     </>
   );
 }
