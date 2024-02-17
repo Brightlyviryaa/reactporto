@@ -20,11 +20,7 @@ const Timeline = () => {
             Title: "Social mannequin - Buy social media followers, like, comments, and more",
             Description: "Menggunakan API resseler social media di website ini pelanggan dapat membeli followers, like, coments untuk berbagai kebutuhan dengan harga yang terjangkau"
         },
-        {
-            Date: "Future Projects",
-            Title: "Budhism Forum",
-            Description: "Rencana ingin membuat forum online untuk berbagi pengetahuan tentang ajaran buddha, disana juga akan ada laman untuk berdana dan koperasi online untuk memvasilitasi vihara vihara yang terdaftar berjualan menambah dana untuk membantu mengembangkan buddha dhamma"
-        },
+
         {
             Date: "Future Projects",
             Title: "koderia Tube - Youtube clone for IT education",
