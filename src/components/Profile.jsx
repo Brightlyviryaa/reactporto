@@ -13,8 +13,7 @@ const Profile = () => {
                     <h5 className="text-lg font-medium mb-4 text-yellow-900">Informatics Student</h5>
 
                     <ul className="list-disc ml-5 text-slate-600">
-                        <li className="mb-2">Overall GPA 3.27</li>
-                        <li>straight 9 on PTI (Pengantar teknologi internet) and Web Programming Lecture</li>
+                        <li>straight A on PTI (Pengantar teknologi internet) and Web Programming Lecture</li>
                         <li className="mb-2">Arsa OMB UMN 2023</li>
                         <li className="mb-2">Coder mentor of Game Development Club UMN 2023 - 2024</li>
                         <li className="mb-2">Coordinator of Accommodation in Global Game Jam 2023</li>
